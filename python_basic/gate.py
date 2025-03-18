@@ -30,7 +30,6 @@ def not_gate(x1):
     if wx > o:
         return 1
 
-
 if __name__ == '__main__':
 
     print(f'--AND GATE--')
